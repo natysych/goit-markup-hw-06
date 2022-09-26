@@ -852,12 +852,8 @@ address {
 }
 
 .contact-form-checkbox:focus + .contact-form-checkbox-label::before {
-    background-image: url(../images/icon_tik.svg);
     background-color: #2196F3;
     outline: none;
-    background-repeat: no-repeat;
-    background-size: 11px 8px;
-    background-position: 3px 4px;
 }
 
 .contact-form-checkbox-label {
