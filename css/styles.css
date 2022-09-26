@@ -362,7 +362,7 @@ flex-basis: calc((100%-4*30px)/4);
     letter-spacing: 0.03em;
     margin-bottom: 16px;
 }
-/* Секция - Постоянные клиенты */
+
 .social-list {
     display: flex;
     width: 206px;
